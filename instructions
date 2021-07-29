@@ -1,0 +1,5 @@
+Instructions:
+1. Create a database in your localhost and set your database name
+2. Import countries.sql file in your database
+3. Edit config.php file in folder "includes"
+4. Sign up or Sign in with username: ivan@gmail.com, pass:ivan123
